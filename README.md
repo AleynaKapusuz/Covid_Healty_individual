@@ -1,1 +1,1 @@
-# Covid - Healty İndividual 
+# Covid - Healty Individual 
