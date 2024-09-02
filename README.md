@@ -1,1 +1,1 @@
-# FaceRecognition
+# Covid - Healty İndividual 
