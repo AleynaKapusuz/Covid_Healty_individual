@@ -16,4 +16,5 @@ viral_pneumonia :
 
 
 DETECT:
-![image](https://github.com/user-attachments/assets/1e0455f3-6345-4815-8434-2023a2a62ffe)
+
+![image](https://github.com/user-attachments/assets/7756e459-631b-41db-be71-bc9e7f9474d4)
