@@ -13,3 +13,7 @@ val :
 viral_pneumonia :
 
 ![Ekran görüntüsü 2024-09-02 230500](https://github.com/user-attachments/assets/262b0c25-6a8f-4c92-bbbb-e33dee81f3fd)
+
+
+DETECT:
+![image](https://github.com/user-attachments/assets/1e0455f3-6345-4815-8434-2023a2a62ffe)
